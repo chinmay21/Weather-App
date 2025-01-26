@@ -1,6 +1,6 @@
 console.log("Hello");
 
-const API_KEY  = //Enter you API key 
+const API_KEY  = //Enter your API key 
 
 function renderWeatherInfo(data) {
     let newPara = document.createElement("p");
